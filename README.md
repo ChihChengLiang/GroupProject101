@@ -7,7 +7,7 @@ this is a hello world tutorial of pull request
 
 1.請組長fork一份本專案。
 
-2.請組長在`list.txt`以下列格式增加組名，並且加入自己的帳號。
+2.請組長在`list.txt`以下列格式增加組名，並且加入自己的帳號。**注意在所有過程中，不要刪除其他組的資料**
 ```
 ## 我是XX組
 
