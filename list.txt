@@ -8,3 +8,8 @@ https://github.com/Github帳號A 哈囉大家好，我是組長
 https://github.com/Github帳號B yeah請多指教
 https://github.com/Github帳號C 今天天氣真好
 https://github.com/Github帳號D 明天天氣也很好
+
+## 測試組
+
+https://github.com/SatoshiLiang 諸君，我是測試組組長
+
