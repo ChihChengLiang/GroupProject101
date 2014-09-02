@@ -1,6 +1,10 @@
 #組員名單
 
-## 我是中秋烤肉組
+範例：
 
-https://github.com/ArthurLu/GroupProject101 哈囉大家好，我是組長. 專門負責吃. 以下誠徵專員負責烤肉及生火 :)
+## 我是XX組
 
+https://github.com/Github帳號A 哈囉大家好，我是組長
+https://github.com/Github帳號B yeah請多指教
+https://github.com/Github帳號C 今天天氣真好
+https://github.com/Github帳號D 明天天氣也很好
